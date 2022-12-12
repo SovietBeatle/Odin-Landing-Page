@@ -112,8 +112,38 @@ h2 {
     border-radius: 5px;
 }
 
+.second-section {
+    height: 500px;
+}
 
 .p-second {
     text-align: center;
     font-size: 18px;
+}
+
+.third-section {
+    background-color: #E5E7EB;
+    height: 500px;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+
+h3 {
+    font-size: 36px;
+    font-weight: lighter;
+    font-style: italic;
+    color: #1F2937;
+    text-align: center;
+}
+
+.p-third {
+    font-size: 18px;
+    text-align: end;
+    }
+
+#p-div {
+    display: flex;
+    justify-content: center;
+    margin-left: 600px;
 }
