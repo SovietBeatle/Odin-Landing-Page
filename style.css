@@ -12,7 +12,7 @@ ul {
    display: flex;
 }
 
-li {
+li, .content-subtext {
     font-size: 18px;
     color: #E5E7Eb;
     margin: 10px;
@@ -37,4 +37,55 @@ li {
 #header-logo {
     font-size: 24px;
     color: #f9faf8;
+}
+
+h1 {
+    font-size: 48px;
+    font-weight: bolder;
+    color: #f9faf8;
+}
+
+.content-right {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    width: 50%;
+}
+
+.content-left {
+    display: flex;
+    flex-direction: column;
+    width: 50%;
+    justify-content: center;
+    align-items: center;
+    margin-left: 100px;
+    
+} 
+
+.content {
+    display: flex;
+    margin: 60px;
+}
+
+img {
+    margin-bottom: 50px;
+}
+
+.p-first {
+    font-size: 18px;
+    color: #E5E7Eb;
+    display: flex;
+    justify-content: center;
+    padding-left: 65px;
+}
+
+.sign-up-first-section {
+    background-color: #3882f6;
+    color: white;
+    width: 100px;
+    height: 40px;
+    border: 1px  #3882F6;
+    border-radius: 10px;
+    margin-right: 240px;
 }
