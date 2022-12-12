@@ -1,1 +1,2 @@
 # Odin-Landing-Page
+This is my attempt at the Odin Project assignment "Landing Page" in the Foundations course. For this assignment I used intermediate HTML and CSS skills to create a useable landing page. 
